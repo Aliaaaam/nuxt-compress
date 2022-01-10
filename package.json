@@ -22,9 +22,6 @@
     "compress",
     "compression"
   ],
-  "peerDependencies": {
-    "nuxt-edge": ">=2.9.0"
-  },
   "author": "Rob Cresswell <robcresswell@users.noreply.github.com>",
   "license": "MIT",
   "files": [
